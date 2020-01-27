@@ -35,3 +35,5 @@ This project began with the [Arduino Laser Show with Real Galvos by DeltaFlo](ht
 
 ## Known issues
 There is an issue where changing the settings too quickly freezes the laser show. I suspect it is related to an interrupt conflict between the rotary encoder control and the I2C LCD screen.
+
+![Laser sky green](/images/laser_sky_green.jpg)
