@@ -1,0 +1,7 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.SLAB_USBtoUART",
+    "sketch": "DK-LaserProjector-v1.0.ino",
+    "output": "../bin"
+}

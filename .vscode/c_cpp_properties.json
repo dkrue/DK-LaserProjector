@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/dkrueger/Library/Arduino15/packages/esp8266/tools/**",
+                "/Users/dkrueger/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "/Users/dkrueger/Library/Arduino15/packages/SparkFun/hardware/avr/1.1.5/**",
+                "/Users/dkrueger/Library/Arduino15/packages/adafruit/hardware/avr/1.4.9/**",
+                "/Users/dkrueger/Library/Arduino15/packages/arduino/tools/**",
+                "/Users/dkrueger/Library/Arduino15/packages/arduino/hardware/avr/1.6.23/**",
+                "${workspaceFolder}/**",
+                "/Applications/Arduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3/**/avr",
+                "/Users/dkrueger/Documents/Arduino/libraries/**",
+                "/Users/dkrueger/Library/Arduino15/packages/adafruit/hardware/avr/1.4.13/**",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**",
+                "/Applications/Arduino.app/Contents/Java/tools/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/Users/dkrueger/Library/Arduino15/packages/arduino/hardware/avr/1.6.23/cores/arduino/Arduino.h",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
