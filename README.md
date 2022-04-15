@@ -24,6 +24,9 @@ There are several hardware modules working together on this project to produce t
 ### Laser color modulation
 - The Arduino [Metro Mini](https://www.adafruit.com/product/2590) also sends out 3 digital TTL (on/off) signals to the laser module
 - A RGB laser module receives those signals to turn the 3 laser colors on and off. This can support PWM, but a more expensive laser module would be needed to support analog modulation.
+
+![Onboard OLED LCD Menu](/images/oled_lcd_menu.jpg)
+
 ### Control system
 - An OLED LCD screen (_SSD1306_) displays the current animation, rotation mode, color mode, and strobe mode
 - A rotary encoder and pause button control the current animation settings on the screen
